@@ -30,21 +30,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Geovanny3/osticket-prereqs/assets/141757481/0731605c-959c-4645-ace3-1d47d01f07ba)
 </p>
 <p>
-Firstly, a Virtual Machine must be established in Microsoft Azure. The virtual Machine will be used to house the progam OS Ticket.
+-Firstly, a Virtual Machine must be established in Microsoft Azure. The virtual Machine will be used to house the progam osTicket.
 </p>
 <br />
 
 ![image](https://github.com/Geovanny3/osticket-prereqs/assets/141757481/29a52efb-cffe-4c9e-8d1c-12b19d7dcec3)
 </p>
 <p>
-After the virtual machine is running we would then obtain it's IP Address and utilize Remote Desktop to then access the Virtual Machine.
+-After the virtual machine is running we would then obtain it's IP Address and utilize Remote Desktop to then access the Virtual Machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Geovanny3/osticket-prereqs/assets/141757481/5527a4d8-bb3f-4eb1-a4ed-fd554df94d21)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-After logining into the virtaul machine we then begin installing all the prerequisite software in order for osTicket to function properly.
+</p>
+<br />
+
+<p>
+
+  ![image](https://github.com/Geovanny3/osticket-prereqs/assets/141757481/37950648-04b7-4b90-9688-77f554a89e11)
+
+</p>
+<p>
+-Lastly comes the actually installation of the software osTicket. The file can be downloaded directly from the website or if already prepared can be installed through a thumbdrive. After installation the program is ready to be set-up by its Host.
 </p>
 <br />
