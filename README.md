@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fazure-virtual-machines&psig=AOvVaw0eqysgTUcGLzJuzdKb2ppR&ust=1694192679765000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKiP0tr9mIEDFQAAAAAdAAAAABAZ" height="80%" width="80%" alt="Disk Sanitization Steps">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fazure-virtual-machines&psig=AOvVaw0eqysgTUcGLzJuzdKb2ppR&ust=1694192679765000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKiP0tr9mIEDFQAAAAAdAAAAABAZ" height="80%" width="80%" alt
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
