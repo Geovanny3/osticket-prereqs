@@ -27,18 +27,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Geovanny3/osticket-prereqs/assets/141757481/0731605c-959c-4645-ace3-1d47d01f07ba)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Firstly, a Virtual Machine must be established in Microsoft Azure. The virtual Machine will be used to house the progam OS Ticket.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Geovanny3/osticket-prereqs/assets/141757481/29a52efb-cffe-4c9e-8d1c-12b19d7dcec3)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the virtual machine is running we would then obtain it's IP Address and utilize Remote Desktop to then access the Virtual Machine.
 </p>
 <br />
 
